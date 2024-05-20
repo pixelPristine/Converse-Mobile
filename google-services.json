@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069360082542",
+    "project_id": "converse-b4168",
+    "storage_bucket": "converse-b4168.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069360082542:android:86d36aa39fe5a20f8f407f",
+        "android_client_info": {
+          "package_name": "com.mad.converse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069360082542-np2ha19jiohnat0nnrdjqg0qr92nkms9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYpFvnBYepw2bHzyjQMJigTn8MaATIlxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069360082542-np2ha19jiohnat0nnrdjqg0qr92nkms9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
