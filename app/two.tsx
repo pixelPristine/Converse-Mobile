@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { TextInput, View, Image, Text, StyleSheet, TouchableOpacity } from "react-native";
 import { collection, onSnapshot, query, orderBy, where } from "firebase/firestore";
-import { db } from "../firebase-config";
+import { db } from "./firebase-config";
 
 
 interface UserSearchProps {
