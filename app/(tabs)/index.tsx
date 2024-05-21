@@ -50,7 +50,7 @@ export default function TabOneScreen() {
         <Text>Loading...</Text>
       </View>
     );
-  }
+  }else{
 
   return (
     <View style={styles.container}>
@@ -81,6 +81,8 @@ export default function TabOneScreen() {
       )}
     </View>
   );
+}
+
 }
 
 const styles = StyleSheet.create({
